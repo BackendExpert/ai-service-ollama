@@ -1,14 +1,40 @@
 {
   "name": "ai-service-ollama",
   "version": "1.0.0",
-  "description": "",
+  "description": "A lightweight TypeScript AI service for Ollama, embeddings, chat, text generation, RAG, and vector similarity search.",
   "keywords": [
-    "Ollama"
+    "ollama",
+    "ai",
+    "artificial-intelligence",
+    "llm",
+    "large-language-model",
+    "generative-ai",
+    "chatbot",
+    "ai-service",
+    "ai-sdk",
+    "typescript",
+    "javascript",
+    "nodejs",
+    "backend",
+    "embeddings",
+    "text-embeddings",
+    "rag",
+    "retrieval-augmented-generation",
+    "vector-search",
+    "vector-similarity",
+    "cosine-similarity",
+    "semantic-search",
+    "nlp",
+    "machine-learning",
+    "qwen",
+    "nomic-embed-text",
+    "llm-service",
+    "ai-library"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "author": "jehankandy",
   "type": "commonjs",
-  "main": "index.js",
+  "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,5 +43,13 @@
   },
   "devDependencies": {
     "tsx": "^4.23.11"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BackendExpert/ai-service-ollama.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BackendExpert/ai-service-ollama/issues"
+  },
+  "homepage": "https://github.com/BackendExpert/ai-service-ollama#readme"
 }
