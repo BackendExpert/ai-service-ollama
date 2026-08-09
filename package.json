@@ -1,0 +1,21 @@
+{
+  "name": "ai-service-ollama",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "Ollama"
+  ],
+  "license": "ISC",
+  "author": "jehankandy",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.19.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.23.11"
+  }
+}
