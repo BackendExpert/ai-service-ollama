@@ -575,4 +575,4 @@ This project is licensed under the MIT License.
 
 You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of this software, subject to the terms and conditions of the MIT License.
 
-See the [MIT License](LICENSE) file for the complete license terms.
+See the [MIT License](https://github.com/BackendExpert/ai-service-ollama/blob/master/LICENSE) file for the complete license terms.
