@@ -4,7 +4,6 @@
 
 - This service is designed to work without any database or external vector database.
 
-***
 
 ## Features
 
